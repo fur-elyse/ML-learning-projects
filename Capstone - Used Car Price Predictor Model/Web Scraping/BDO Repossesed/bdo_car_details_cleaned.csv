@@ -1,0 +1,551 @@
+brand,model,transmission,fuel_type,Year of Manufacture,mileage_in_km,color,plate_no,price,location
+BYD,S6,Automatic,Gasoline,2015,45000,Black,[SALE] ABG 1981,616000,Cagayan De Oro
+Chevrolet,Aveo,Manual,Gasoline,2013,56000,Sterling Silver,RNV 504,188000,Bacolod
+Chevrolet,Captiva,Automatic,Diesel,2012,144000,Alpine White,TKQ 116,479000,Quezon City
+Chevrolet,Colorado,Automatic,Diesel,2016,95000,Orange Rock,CS# WD3371 (WITHOUT PLATES),799000,Panabo City
+Chevrolet,Colorado,Automatic,Diesel,2016,46000,Sizzle Red,[SALE] CS# WD3170 (WITHOUT PLATES),831000,Bacolod
+Chevrolet,Colorado,Manual,Diesel,2014,119000,Summit White,[SALE] ACA 5679,724000,Quezon City
+Chevrolet,Colorado,Manual,Diesel,2013,127000,Black Sapphire,[SALE] FHU 547,639000,Panabo City
+Chevrolet,Orlando,Automatic,Gasoline,2013,,Olympic White,[SALE] WXI 878,479000,Manila
+Chevrolet,Sail,Manual,Gasoline,2016,14000,Blue,CS# WD3839 (WITHOUT PLATES),363000,Quezon City
+BYD,S6,Automatic,Gasoline,2015,35000,Gold,[SALE] ABG 1980,724000,Cagayan De Oro
+BYD,S7,Automatic,Gasoline,2017,4000,Brown,[SALE] CS# XF0219 (WITHOUT PLATES),1278000,Quezon City
+Chevrolet,Aveo,Manual,Gasoline,2012,37000,Black Sapphire,FHN 289,137000,Bacolod
+Chevrolet,Colorado,Manual,Diesel,2018,14000,Black Meet Kettle,CS# WE0164 (WITHOUT PLATES),943000,Panabo City
+Chevrolet,Colorado,Manual,Diesel,2014,73000,Summit White,[SALE] ABM 3187,639000,Quezon City
+Chevrolet,Colorado,Manual,Diesel,2015,16000,Orange,[SALE] ATA 7119,799000,Cagayan De Oro
+Chevrolet,Colorado,Automatic,Diesel,2016,21000,Orange Rock,[SALE] CS# WC8547 (WITHOUT PLATE),1010000,Cebu
+Chevrolet,Orlando,Automatic,Gasoline,2012,48000,Olympic White,[SALE] TOV 752,485000,Quezon City
+Chevrolet,Orlando,Automatic,Gasoline,2014,51000,Carbon Flash Metallic,[SALE] ABM 9185,586000,Bacolod
+Chevrolet,Sail,Manual,Gasoline,2016,29000,Orange Metallic,ADM 7567 (WITHOUT PLATES),367000,Bacolod
+Chevrolet,Sail,Manual,Gasoline,2017,11000,Black Meet Kettle,CS# WD6719 (WITHOUT PLATES)CS# WD6719 (WITHOUT PLATES),375000,Quezon City
+Chevrolet,Sail,Manual,Gasoline,2017,19000,Summit White,CS# WD8210 (WITHOUT PLATES),389000,Quezon City
+Chevrolet,Sail,Manual,Gasoline,2018,23000,Blue Sky,CS# WE0633 (WITHOUT PLATES),415000,Quezon City
+Chevrolet,Sail,Automatic,Gasoline,2017,3000,Summit White,CS# WD3908 (WITHOUT PLATES),478000,Quezon City
+Chevrolet,Sail,Automatic,Gasoline,2017,12000,Black,CS# WD7721 (WITHOUT PLATES),465000,Quezon City
+Chevrolet,Sail,Automatic,Gasoline,2017,22000,Syracuse MKIII,CS# WD9625 (WITHOUT PLATES),479000,General Santos
+Chevrolet,Sail,Automatic,Gasoline,2017,12000,Silver Metallic,CS# WD5393 (WITHOUT PLATES),469000,Quezon City
+Chevrolet,Sail,Automatic,Gasoline,2018,16000,Blue Sky,CS# WE0977 (WITHOUT PLATES),708000,Quezon City
+Chevrolet,Sail,Manual,Gasoline,2017,31000,Silver Metallic (OR/CRE) Galaxy Silver (PN/CHM),CS# WD8041 (WITHOUT PLATES),469000,Quezon City
+Chevrolet,Sail,Automatic,Gasoline,2018,7000,Gate Red,CS# WE1500 (WITHOUT PLATES),671000,Quezon City
+Chevrolet,Sail,Manual,Gasoline,2017,13000,Summit White,CS# WD4224 (WITHOUT PLATES),388000,Koronadal
+Chevrolet,Sail,Manual,Gasoline,2017,31000,Orange,CS# WD8155 (WITHOUT PLATES),401000,Quezon City
+Chevrolet,Sail,Automatic,Gasoline,2016,49000,Black Meet Kettle,FAA 3245,373000,Bacolod
+Chevrolet,Sail,Automatic,Gasoline,2017,3000,Summit White,CS# WD5421 (WITHOUT PLATES),426000,Bacolod
+Chevrolet,Sail,Automatic,Gasoline,2017,13000,Silver Metallic,FAC 4738,453000,Bacolod
+Chevrolet,Sail,Automatic,Gasoline,2017,40000,Black,CS# WD4259 (WITHOUT PLATES),469000,Quezon City
+Chevrolet,Sail,Automatic,Gasoline,2018,12000,Silver Metallic,CS# WE1889 (WITHOUT PLATES),639000,Quezon City
+Chevrolet,Sail,Automatic,Gasoline,2017,23000,Silver Metallic (OR/CRE) Galaxy Silver (PN/CHM),CS# WD4317 (WITHOUT PLATES),512000,Quezon City
+Chevrolet,Sail,Manual,Gasoline,2017,20000,Black,CS# WD8120 (WITHOUT PLATES),469000,Quezon City
+Chevrolet,Sonic,Manual,Gasoline,2015,8000,Summit White,CS# WC3470 (WITHOUT PLATE),308000,Cagayan De Oro
+Chevrolet,Spark,Manual,Gasoline,2008,74000,Silver,ZRV 433,144000,Quezon City
+Chevrolet,Spin,Manual,Diesel,2015,11000,Summit White,ACU 4595 (TEMPORARY PLATES),371000,Panabo City
+Chevrolet,Spin,Automatic,Gasoline,2015,38000,Black Sapphire,ABY 9625 (WITHOUT PLATES),327000,Cagayan De Oro
+Chevrolet,Trailblazer,Automatic,Diesel,2016,34000,Summit White,[SALE] CS# WD0444 (WITHOUT PLATES),1257000,Bacolod
+Chevrolet,Trailblazer,Manual,Diesel,2017,40000,Auburn Brown,CS# WD6092 (WITHOUT PLATES),1065000,Bacolod
+Chevrolet,Trailblazer,Automatic,Diesel,2016,41000,Blue Mountain,[SALE] CS# WC9899 (WITHOUT PLATE),896000,Panabo City
+Chevrolet,Trailblazer,Automatic,Diesel,2014,170000,Royal Gray,[SALE] AAU 8349,820000,Quezon City
+Chevrolet,Trailblazer,Automatic,Diesel,2016,15000,Summit White,[SALE] CS# WD0438 (WITHOUT PLATES),1132000,Bacolod
+Chevrolet,Trax,Automatic,Gasoline,2017,13000,Blaze Red Solid,[SALE] CS# WD3794 (WITHOUT PLATES),809000,Quezon City
+Chevrolet,Trax,Automatic,Gasoline,2017,5000,Brown,[SALE] CS# WD5080 (WITHOUT PLATES),889000,Quezon City
+Chevrolet,Spark,Manual,Gasoline,2015,50000,Carbon Flash Metallic,CS# WC6564 (WITHOUT PLATES),265000,Bacolod
+Chevrolet,Spin,Automatic,Gasoline,2015,29000,Black Saphire,AFA 1378,409000,Bacolod
+Chevrolet,Trailblazer,Automatic,Diesel,2016,29000,Red,CS# WC9108 (WITHOUT PLATES),975000,Taguig
+Chevrolet,Trailblazer,Manual,Diesel,2014,49000,Switchblade Silver,[SALE] ABM 2265,831000,Quezon City
+Chevrolet,Trailblazer,Manual,Diesel,2016,43000,Summit White,[SALE] CS# WD1129 (WITHOUT PLATES),985000,Quezon City
+Chevrolet,Trailblazer,Automatic,Diesel,2013,246000,Olympic White,WQC 742,692000,Quezon City
+Chevrolet,Trailblazer,Automatic,Diesel,2016,3000,Red,[SALE] CS# WD2076 (WITHOUT PLATES),1385000,Bacolod
+Chevrolet,Trailblazer,Automatic,Diesel,2016,54000,Summit White,CS# WD0533 (WITHOUT PLATES),948000,Quezon City
+Chevrolet,Trax,Automatic,Gasoline,2017,13000,Switch Blade Silver,CS# WD8514 (WITHOUT PLATES),778000,Quezon City
+Chevrolet,Trax,Automatic,Gasoline,2018,4000,Gray Metallic,CS# WE2174 (WITHOUT PLATES),1065000,Quezon City
+Chevrolet,Trax,Automatic,Gasoline,2016,23000,White Metallic,[SALE] ABI 3797,857000,Quezon City
+Ford,Ecosport,Automatic,Gasoline,2016,40000,Mars Red,[SALE] ACS 5542 (WITHOUT PLATES),682000,Manila
+Ford,Ecosport,Automatic,Gasoline,2016,7000,Winning Blue,[SALE] CS# IL0439 (WITHOUT PLATES),708000,Quezon City
+Ford,Ecosport,Automatic,Gasoline,2017,48000,Brisbane Brown,CS# IO0228 (WITHOUT PLATES),724000,Panabo City
+Ford,Ecosport,Manual,Gasoline,2017,26000,Ingot Silver,[SALE] CS# C0M506 (WITHOUT PLATES),618000,Koronadal
+Ford,Ecosport,Manual,Gasoline,2016,17000,Red Candy,[SALE] CS# IL0543 (WITHOUT PLATES),554000,Quezon City
+Ford,Ecosport,Automatic,Gasoline,2017,26000,Black,[SALE] CS# IO3712 (WITHOUT PLATES),703000,Quezon City
+Ford,Escape,Automatic,Gasoline,2015,87000,Tuxedo Black,[SALE] NCF 5937,788000,Quezon City
+Ford,Escape,Automatic,Gasoline,2013,31000,Diamond White,[SALE] WSQ 813,426000,Quezon City
+Ford,Everest,Manual,Diesel,2016,110000,White,CS# IJ5558 (WITHOUT PLATES),874000,Panabo City
+Chrysler,300C,Automatic,Gasoline,2013,65000,Bright Silver Metallic Clear,[SALE] CS# ZX4976 (WITHOUT PLATES),1598000,Quezon City
+Ford,Ecosport,Automatic,Gasoline,2017,19000,Mars Red,CS# IP1200 (WITHOUT PLATES),735000,Quezon City
+Ford,Ecosport,Automatic,Gasoline,2016,28000,Frozen White,CS# IK4306 (WITHOUT PLATES),634000,Davao
+Ford,Ecosport,Automatic,Gasoline,2017,26000,Absolute Black,[SALE] CS# CO1839 (WITHOUT PLATES),671000,Quezon City
+Ford,Ecosport,Manual,Gasoline,2015,46000,Frozen White,CS# II8298 (WITHOUT PLATES),479000,Cagayan De Oro
+Ford,Ecosport,Manual,Gasoline,2016,37000,Phanter Black,ABP 6512,533000,Quezon City
+Ford,Ecosport,Automatic,Gasoline,2016,30000,Frozen White,[SALE] CS# IL4579 (WITHOUT PLATES),639000,Quezon City
+Ford,Escape,Automatic,Gasoline,2015,45000,Tuxedo Black,[SALE] CS# IJ0440 (WITHOUT PLATES),852000,Panabo City
+Ford,Escape,Automatic,Gasoline,2010,157000,Black,[SALE] KEL 784,320000,Panabo City
+Ford,Everest,Automatic,Diesel,2017,31000,Aluminum Metallic,NDG 3761,1300000,Quezon City
+Ford,Explorer,Automatic,Gasoline,2014,53000,Deep Impact Blue,ATA 3200,1278000,Quezon City
+Ford,Fiesta,Manual,Gasoline,2014,66000,Ice Blue,AAB 4993,267000,Quezon City
+Ford,Fiesta,Automatic,Gasoline,2015,60000,Frozen White,CS# II3708 (WITHOUT PLATES),373000,Quezon City
+Ford,Fiesta,Automatic,Gasoline,2016,16000,Frozen White,CS# IM0162 (WITHOUT PLATE),370000,Quezon City
+Ford,Fiesta,Automatic,Gasoline,2013,49000,Arctic White,WBO 734,196000,Quezon City
+Ford,Fiesta,Manual,Gasoline,2014,,Black Mica,AAN 3964,224000,General Santos
+Ford,Focus,Automatic,Gasoline,2008,74000,Silver,ZSE 599,155000,Quezon City
+Ford,Ranger,Automatic,Diesel,2015,29000,Aluminum Metallic,FDM 7847,900000,Bacolod
+Ford,Ranger,Automatic,Diesel,2018,8000,Pride Orange,CS# C1 R903 (WITHOUT PLATES),1193000,Quezon City
+Ford,Ranger,Automatic,Diesel,2018,7000,Absolute Black,CS# C0 Y803 (WITHOUT PLATES),1150000,Bacolod
+Ford,Explorer,Automatic,Gasoline,2015,70000,White Platinum,[SALE] ABD 7819,1422000,Quezon City
+Ford,Fiesta,Automatic,Gasoline,2014,65000,Arctic white,AAM 4334,341000,Quezon City
+Ford,Fiesta,Automatic,Gasoline,2012,65000,Black Mica,TEN 26,234000,Quezon City
+Ford,Fiesta,Automatic,Gasoline,2016,27000,Phanter Black,CS# IL6768 (WITHOUT PLATES),447000,Quezon City
+Ford,Fiesta,Automatic,Gasoline,2014,46000,Metropolitan Gray,AAZ 6900,330000,Cebu
+Ford,Fiesta,Automatic,Gasoline,2014,43000,Black,CS# IG9302 (WITHOUT PLATES)CS# IG9302 (WITHOUT PLATES)CS# IG9302 (WITHOUT PLATES),120000,Bacolod
+Ford,Focus,Automatic,Gasoline,2013,93000,Brisbane Brown,WQG 615,351000,Quezon City
+Ford,Ranger,Manual,Diesel,2015,82000,Aurora Blue,CS# IJ4625 (WITHOUT PLATES),841000,Bacolod
+Ford,Ranger,Manual,Diesel,2016,34000,White,ACS 1467,1129000,Quezon City
+Ford,Ranger,Manual,Diesel,2015,18000,Cool White,AAG 4604,852000,Panabo City
+Ford,Ranger,Manual,Diesel,2013,61000,Cool White,UOG 515,677000,Panabo City
+Ford,Ranger,Automatic,Diesel,2013,154000,Highlight Silver,BOY 06,650000,Quezon City
+Foton,Gratour,Manual,Gasoline,2016,19000,White,[SALE] CS# GB6226 (WITHOUT PLATES),330000,Bacolod
+Foton,Gratour,Manual,Gasoline,2016,6000,Silver,[SALE] CS# GB6004 (WITHOUT PLATES),256000,Quezon City
+Foton,Gratour,Manual,Gasoline,2016,24000,Gray,CS# GB4700 (WITHOUT PLATES),245000,Bacolod
+Foton,Thunder,Manual,Diesel,2016,47000,White,[SALE] CS# GB6008 (WITHOUT PLATES),501000,Panabo City
+Foton,Thunder,Manual,Diesel,2016,30000,White,CS# GB5532 (WITHOUT PLATES),564000,Bacolod
+Foton,Toplander,Manual,Diesel,2016,24000,Black,[SALE] CS# GB6325 (WITHOUT PLATES),735000,Bacolod
+Foton,Tornado,Manual,Diesel,2016,41000,White,[SALE] ADM 7585 (WITHOUT PLATES),724000,Bacolod
+Foton,Tornado,Manual,Diesel,2016,53000,White,[SALE] CS# GB5663 (WITHOUT PLATES),799000,Quezon City
+Ford,Ranger,Manual,Diesel,2015,82000,Cool White,[SALE] AXA 3896,841000,Bacolod
+Foton,Gratour,Manual,Gasoline,2016,6000,Blue,[SALE] CS# GB4693 (WITHOUT PLATES),344000,Bacolod
+Foton,Gratour,Manual,Gasoline,2016,6000,Blue,[SALE] CS# GB5529 (WITHOUT PLATE),317000,Bacolod
+Foton,Gratour,Manual,Gasoline,2016,11000,Brown,[SALE] CS# GB4670 (WITHOUT PLATES),320000,Bacolod
+Foton,Gratour,Manual,Gasoline,2017,43000,Silver,KAA 6058,224000,Panabo City
+Foton,Thunder,Manual,Diesel,2016,62000,Black,CS# GB3418 (WITHOUT PLATES),554000,Bacolod
+Foton,Thunder,Manual,Diesel,2016,36000,Black,[SALE] CS# GB5550 (WITHOUT PLATES),650000,Bacolod
+Foton,Toplander,Manual,Diesel,2016,8000,Black,CS# GB3496 (WITHOUT PLATES),793000,General Santos
+Foton,Tornado,Manual,Diesel,2014,,White,AAF 6906,299000,Panabo City
+Foton,Tornado,Manual,Diesel,2015,24000,White,[SALE] CS# GA9399 (WITHOUT PLATES),522000,Bacolod
+Foton,View,Manual,Diesel,2017,37000,White,CS# GB8117 (WITHOUT PLATES),746000,Quezon City
+Foton,View,Manual,Diesel,2017,5000,White,CS# GB7724 (WITHOUT PLATES),767000,Panabo City
+Foton,View Traveller,Manual,Diesel,2017,29000,Black,CS# GC0712 (WITHOUT PLATES),895000,Quezon City
+Foton,View Traveller,Manual,Diesel,2016,96000,White,[SALE] AEB 1442 CS# GB4192 (WITHOUT PLATES),809000,Quezon City
+Foton,View Traveller,Manual,Diesel,2014,193000,White,[SALE] 062015855 (TEMPORARY PLATE),373000,Bacolod
+Honda,Accord,Automatic,Gasoline,2011,101000,Crystal Black,TIE 902,453000,Quezon City
+Honda,City,Automatic,Gasoline,2016,54000,Modern Steel,ABY 9424 (WITHOUT PLATES),414000,Panabo City
+Honda,City,Automatic,Gasoline,2018,11000,Modern Steel Metallic,CS# DV9446 (WITHOUT PLATES),746000,Quezon City
+Honda,City,Automatic,Gasoline,2014,45000,Gold Brown,ABI 4061,426000,Fort Victoria
+Honda,CR-V,Automatic,Gasoline,2017,36000,Modern Steel,CS# DU2258 (WITHOUT PLATES),970000,Quezon City
+Foton,View,Manual,Diesel,2015,58000,White,[SALE] ABN 3066,462000,Bacolod
+Foton,View,Manual,Diesel,2017,11000,White,CS# GB8185 (WITHOUT PLATES),756000,Panabo City
+Foton,View Traveller,Manual,Diesel,2017,9000,White,[SALE] CS# GB8519 (WITHOUT PLATE),990000,Quezon City
+Foton,View Traveller,Manual,Diesel,2016,143000,Silver,[SALE] CS# GB4523 (WITHOUT PLATES),714000,Bacolod
+Great Wall,Haval,Manual,Gasoline,2014,30000,Pearl Black,[SALE] AQA 8432,282000,Quezon City
+Honda,City,Manual,Gasoline,2010,38000,Habanero Red,NOH 642,347000,Panabo City
+Honda,City,Automatic,Gasoline,2018,21000,Lunar Silver,CS# E0 K892 (WITHOUT PLATES),756000,Cebu
+Honda,City,Automatic,Gasoline,2018,24000,Lunar Silver,CS# DV7887 (WITHOUT PLATES),767000,Quezon City
+Honda,City,Automatic,Gasoline,2018,5000,Ruby Red Pearl,CS# E0 G864 (WITHOUT PLATES),841000,Quezon City
+Honda,CR-V,Automatic,Gasoline,2012,26000,White Orchid Pearl,[SALE] UXI 326,820000,Quezon City
+Honda,HR-V,Automatic,Gasoline,2016,13000,Modern Steel,[SALE] CS# DT8934 (WITHOUT PLATES),1054000,Panabo City
+Honda,Jazz,Automatic,Gasoline,2017,52000,Rallye Red,NAS 7516,757000,Quezon City
+Honda,Mobilio,Automatic,Gasoline,2016,28000,Brilliant Sporty Blue,CS# DU7859 (WITHOUT PLATES),639000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2015,24000,Sonic Silver,CS# MN6255 (WITHOUT PLATES),350000,Bacolod
+Hyundai,Accent,Manual,Gasoline,2015,77000,Misty Beige,ABQ 8285,341000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2016,29000,Sleek Silver,CS# MP2047 (WITHOUT PLATES),373000,Fort Victoria
+Hyundai,Accent,Manual,Gasoline,2016,7000,Veloster Red,CS# MP5363 (WITHOUT PLATES),373000,Manila
+Hyundai,Accent,Automatic,Gasoline,2016,16000,Veloster Red,CS# MP7691 (WITHOUT PLATES),375000,Quezon City
+Hyundai,Accent,Automatic,Gasoline,2016,51000,Phantom Black,NCE 2473,373000,Quezon City
+Hyundai,Accent,Automatic,Gasoline,2017,37000,Phantom Black,CS# MS3127 (WITHOUT PLATES),375000,Quezon City
+Honda,Jazz,Automatic,Gasoline,2016,48000,Taffeta White,CS# DS1785 (WITHOUT PLATES),661000,Quezon City
+Honda,Mobilio,Automatic,Gasoline,2016,10000,Taffeta White,CS# DU5066 (WITHOUT PLATES),671000,Quezon City
+Hyundai,Accent,Automatic,Gasoline,2016,37000,Crystal White,CS# MP1002 (WITHOUT PLATES),379000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2015,48000,Crystal White,ABQ 8288,346000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2016,,Silver,CS# MP5258 (WITHOUT PLATES),329000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2016,98000,Veloster Red,ACI 1790,320000,Fort Victoria
+Hyundai,Accent,Manual,Gasoline,2016,32000,Silver,ADN 4026 (TEMPORARY PLATES),378000,Cebu
+Hyundai,Accent,Automatic,Gasoline,2016,31000,Sleek Silver,NCY 4009,373000,Quezon City
+Hyundai,Accent,Automatic,Gasoline,2017,25000,Sleek Silver,CS# MT0847 (WITHOUT PLATE),474000,Bacolod
+Hyundai,Accent,Automatic,Gasoline,2017,45000,Crystal White,CS# MT3363 (WITHOUT PLATES),405000,Quezon City
+Hyundai,Accent,Automatic,Gasoline,2018,1000,Silver,CS# MV4435 (WITHOUT PLATES),612000,Quezon City
+Hyundai,Accent,Automatic,Gasoline,2018,9000,Phantom Black,CS# MU0438 (WITHOUT PLATES),480000,Taguig
+Hyundai,Accent,Automatic,Gasoline,2018,12000,Phantom Black,CS# MU5158 (WITHOUT PLATES),591000,Fort Victoria
+Hyundai,Accent,Automatic,Gasoline,2018,15000,Lake Silver,CS# MU3659 (WITHOUT PLATE),591000,Fort Victoria
+Hyundai,Accent,Manual,Gasoline,2015,41000,Sleek Silver,ABH 2506,320000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2016,35000,Crystal white,ADG 3186,331000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,5000,Phantom Black,CS# MS8293 (WITHOUT PLATE),435000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,9000,Phantom Black,CS# MR4034 (WITHOUT PLATE),418000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,13000,Veloster Red,CS# MR9185 (WITHOUT PLATES),401000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,17000,Crystal White,CS# MR1548 (WITHOUT PLATES),410000,Quezon City
+Hyundai,Accent,Automatic,Gasoline,2018,5000,Dazzling Blue,CS# MU0653 (WITHOUT PLATES),634000,Quezon City
+Hyundai,Accent,Automatic,Gasoline,2018,10000,Silver,CS# MT9741 (WITHOUT PLATES),596000,Quezon City
+Hyundai,Accent,Automatic,Gasoline,2018,15000,Crystal White,CS# MT9582 (WITHOUT PLATES),596000,Quezon City
+Hyundai,Accent,Automatic,Gasoline,2018,18000,Crystal White,CS# MT8788 (WITHOUT PLATES),586000,Panabo City
+Hyundai,Accent,Manual,Gasoline,2016,8000,Red,CS# MP5324 (WITHOUT PLATES),378000,Bacolod
+Hyundai,Accent,Manual,Gasoline,2016,40000,Sonic Silver,ADO 8361 / CS# MR1078 (WITHOUT PLATES),373000,Panabo City
+Hyundai,Accent,Manual,Gasoline,2017,6000,Veloster Red,CS# MT2958 (WITHOUT PLATES),401000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,13000,Blue,CS# MS8680 (WITHOUT PLATES),401000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,14000,Sleek Silver,CS# MT3136 (WITHOUT PLATES),394000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,18000,Phantom Black,CS# MS8225 (WITHOUT PLATES),405000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,18000,Phantom Black,CS# MT2720 (WITHOUT PLATES),399000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,22000,Crystal White,CS# MT3053 (WITHOUT PLATES),426000,Bacolod
+Hyundai,Accent,Manual,Gasoline,2017,25000,Dazzling Blue,CS# MS3040 (WITHOUT PLATES),358000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,34000,Sonic Silver,CS# MR8061 (WITHOUT PLATES),341000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2018,7000,Blue,CS# MU0421 (WITHOUT PLATES),564000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2018,9000,Chalk White,CS# MV4143 (WITHOUT PLATES),437000,Bacolod
+Hyundai,Accent,Manual,Gasoline,2018,14000,Sonic Silver,CS# MT6363 (WITHOUT PLATES),506000,Cebu
+Hyundai,Accent,Manual,Gasoline,2018,18000,Silver,CS# MT8171 (WITHOUT PLATES),479000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2018,21000,Veloster Red,CS# MT6471 (WITHOUT PLATES),458000,Panabo City
+Hyundai,Accent,Manual,Diesel,2016,389000,Crystal White,CS# ML8035 (WITHOUT PLATES),240000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,19000,Phantom Black,CS# MT0358 (WITHOUT PLATES),426000,Manila
+Hyundai,Accent,Manual,Gasoline,2017,23000,Sleek Silver,CS# MR9212 (WITHOUT PLATES),410000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,26000,Veloster Red,CS# MS4155 (WITHOUT PLATE),388000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2018,6000,Crystal White,CS# MT6596 (WITHOUT PLATES),447000,Bacolod
+Hyundai,Accent,Manual,Gasoline,2018,7000,Veloster Red,CS# MT8248 (WITHOUT PLATES),469000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2018,9000,Pulse Red,CS# MU2647 (WITHOUT PLATES),447000,Bacolod
+Hyundai,Accent,Manual,Gasoline,2018,17000,Red,CS# MU5121 (WITHOUT PLATES),363000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2018,19000,Phantom Black,CS# MT9998 (WITHOUT PLATES),474000,Cagayan De Oro
+Hyundai,Accent,Manual,Diesel,2010,113000,White (actual) / Gray (PNCHM / OR)White (actual) / Gray (PNCHM / OR),PIN 580,188000,Quezon City
+Hyundai,Accent,Automatic,Diesel,2014,49000,Crystal White,AOA 1146,392000,Koronadal
+Hyundai,Accent,Manual,Diesel,2014,76000,Crystal White,CS# MK6222 (WITHOUT PLATES),405000,General Santos
+Hyundai,Accent,Manual,Diesel,2014,132000,Crystal White,130108 (WITHOUT PLATES),277000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2016,16000,Black,CS# MP5094 (WITHOUT PLATES),383000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,40000,Gray,CS# MR9296 (WITHOUT PLATES)CS# MR9296 (WITHOUT PLATES),405000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2018,13000,Silver,CS# MT8183 (WITHOUT PLATES),533000,Bacolod
+Hyundai,Accent,Manual,Diesel,2014,,Crystal White,AWD 403 (WITHOUT PLATES),341000,Fort Victoria
+Hyundai,Accent,Manual,Diesel,2018,8000,Silver,CS# MV6474 (WITHOUT PLATES),533000,Quezon City
+Hyundai,Elantra,Automatic,Gasoline,2016,32000,White,CS# MQ2148 (WITHOUT PLATES),554000,Bacolod
+Hyundai,Elantra,Automatic,Gasoline,2017,21000,Blue,CS# MS7507 (WITHOUT PLATES),586000,Cagayan De Oro
+Hyundai,Elantra,Automatic,Gasoline,2018,8000,Phantom Black,CS# MU3768 (WITHOUT PLATE),788000,Quezon City
+Hyundai,Accent,Manual,Diesel,2015,86000,Crystal White,ABC 3857 (WITHOUT PLATES),294000,Panabo City
+Hyundai,Accent,Automatic,Gasoline,2017,65000,Blue,CS# MR6911 (WITHOUT PLATES),358000,Quezon City
+Hyundai,Accent,Manual,Gasoline,2017,37000,Phantom Black,CS# MR3982 (WITHOUT PLATES),380000,Davao
+Hyundai,Accent,Manual,Gasoline,2018,1000,Lake Silver,CS# K0 A238 (WITHOUT PLATES),458000,Panabo City
+Hyundai,Accent,Automatic,Diesel,2016,106000,Phantom Black,CS# MP8425 (WITHOUT PLATES),442000,Quezon City
+Hyundai,Accent,Automatic,Diesel,2017,30000,Veloster Red,CAC 8544,554000,Quezon City
+Hyundai,Elantra,Automatic,Gasoline,2016,14000,White,CS# MQ2129 (WITHOUT PLATE),524000,Quezon City
+Hyundai,Elantra,Automatic,Gasoline,2017,7000,Blue,CS# MP6355 (WITHOUT PLATES),650000,Panabo City
+Hyundai,Elantra,Automatic,Gasoline,2017,28000,Phantom Black,CS# MS0289 (WITHOUT PLATES),671000,Cagayan De Oro
+Hyundai,Elantra,Automatic,Gasoline,2018,16000,Silver,CS# MT5164 (WITHOUT PLATES),783000,Panabo City
+Hyundai,Elantra,Automatic,Gasoline,2018,20000,Fiery Red,1501-138123 (TEMPORARY / WITHOUT PLATES),714000,General Santos
+Hyundai,Elantra,Manual,Gasoline,2017,10000,Red,CS# MR6324 (WITHOUT PLATES),554000,Bacolod
+Hyundai,Elantra,Manual,Gasoline,2018,6000,Blue,CS# MU5874 (WITHOUT PLATES),511000,Quezon City
+Hyundai,Elantra,Manual,Gasoline,2018,7000,Blue,CS# MV2261 (WITHOUT PLATES),522000,Quezon City
+Hyundai,Elantra,Manual,Gasoline,2013,43000,Sleek Silver,WQY 105,373000,Manila
+Hyundai,Eon,Manual,Gasoline,2017,12000,Pristine Blue,CS# MR8007 (WITHOUT PLATES),277000,Cagayan De Oro
+Hyundai,Eon,Manual,Gasoline,2018,6000,Red,CS# MU7232 (WITHOUT PLATES),373000,Quezon City
+Hyundai,Eon,Manual,Gasoline,2018,20000,White,CS# MV6116 (WITHOUT PLATES),261000,Quezon City
+Hyundai,Grand,Manual,Diesel,2017,6000,Creamy White,[SALE] CS# MS5353 (WITHOUT PLATES),1140000,Quezon City
+Hyundai,Grand,Manual,Diesel,2011,167000,Black,POV 637,501000,Taguig
+Hyundai,Elantra,Manual,Gasoline,2016,12000,Polar White,CS# MQ2304 (WITHOUT PLATES),388000,Cagayan De Oro
+Hyundai,Elantra,Manual,Gasoline,2017,16000,Fiery Red,CS# MR6326 (WITHOUT PLATE),563000,Panabo City
+Hyundai,Elantra,Manual,Gasoline,2018,6000,White,CS# MU5980 (WITHOUT PLATES),692000,Quezon City
+Hyundai,Elantra,Manual,Gasoline,2018,8000,Silver,CS# MU5937 (WITHOUT PLATES),692000,Quezon City
+Hyundai,Eon,Manual,Gasoline,2016,36000,Blue,CS# MQ9298 (WITHOUT PLATES),219000,Panabo City
+Hyundai,Eon,Manual,Gasoline,2017,13000,Sleek Silver,CS# MS6278 (WITHOUT PLATES),341000,Panabo City
+Hyundai,Eon,Manual,Gasoline,2018,11000,White,CS# MU6848 (WITHOUT PLATES),267000,Cagayan De Oro
+Hyundai,Grand,Automatic,Diesel,2018,7000,White,CS# MV0389 (WITHOUT PLATES),1742000,Quezon City
+Hyundai,Grand,Manual,Diesel,2017,23000,Creamy White,CS# MS5340 (WITHOUT PLATES),1086000,Quezon City
+Hyundai,Grand,Manual,Diesel,2016,23000,Creamy White,CS# MP8262 (WITHOUT PLATES),868000,Quezon City
+Hyundai,Grand,Manual,Diesel,2017,12000,Hyper Metallic,[SALE] CS# MS3871 (WITHOUT PLATES),1065000,Quezon City
+Hyundai,i20,Automatic,Gasoline,2016,32000,Sleek Silver,ADN 3967 CS# MO3961 (WITHOUT PLATES)ADN 3967 CS# MO3961 (WITHOUT PLATES),495000,Koronadal
+Hyundai,Santa Fe,Automatic,Diesel,2016,71000,Blue,CS# MP2939 (WITHOUT PLATES),1044000,Quezon City
+Hyundai,Starex,Automatic,Diesel,2013,103000,Hyper Metallic,[SALE] WEI 280,873000,Quezon City
+Hyundai,Tucson,Automatic,Gasoline,2018,12000,Blue,CS# MV0971 (WITHOUT PLATES),1076000,Quezon City
+Hyundai,Tucson,Automatic,Gasoline,2016,27000,White,CS# MQ7918 (WITHOUT PLATES),815000,Bacolod
+Hyundai,Tucson,Manual,Diesel,2016,57000,Titanium Silver,CS# MQ0548 (WITHOUT PLATES),735000,Fort Victoria
+Hyundai,Tucson,Automatic,Diesel,2015,53000,Phantom Black,AHA 7294,671000,Quezon City
+Hyundai,Tucson,Automatic,Diesel,2009,102000,Aqua Silver,[SALE] NCI 263,410000,Quezon City
+Isuzu,Crosswind,Manual,Diesel,2013,155000,Glacial White,WID 964 (YELLOW PLATE),282000,Quezon City
+Hyundai,i10,Manual,Gasoline,2013,68000,Stone Beige,VRC 519,202000,Quezon City
+Hyundai,Santa Fe,Automatic,Diesel,2013,87000,Arabian Mocha,[SALE] LHG 402,699000,Davao
+Hyundai,Santa Fe,Automatic,Diesel,2013,59000,Titanium Silver,[SALE] WNI 288,852000,Quezon City
+Hyundai,Tucson,Automatic,Gasoline,2016,14000,Platinum Silver,[SALE] CS# MO5368 (WITHOUT PLATES),873000,Panabo City
+Hyundai,Tucson,Automatic,Gasoline,2016,19000,Phantom Black,[SALE] CS# MQ7966 (WITHOUT PLATE),825000,Panabo City
+Hyundai,Tucson,Automatic,Gasoline,2016,52000,Phantom Black,[SALE] CS# MR0482 (WITHOUT PLATES),767000,Quezon City
+Hyundai,Tucson,Manual,Gasoline,2016,41000,Beige (OR/CRE) Milk Tea (PN/CHM),CS# MP3772 (WITHOUT PLATES),831000,Quezon City
+Hyundai,Tucson,Automatic,Diesel,2017,23000,Phantom Black,[SALE] CS# MT1848 (WITHOUT PLATES),1305000,Quezon City
+Hyundai,Tucson,Automatic,Gasoline,2013,48000,Silky Bronze,RNW 618,533000,General Santos
+Isuzu,D-max,Manual,Diesel,2013,27000,Ebony Black Mono,[SALE] WCI 251,676000,Cebu
+Isuzu,MU-X,Manual,Diesel,2017,25000,Outback Brown,CS# CS0837 (WITHOUT PLATES),1060000,Taguig
+Isuzu,MU-X,Automatic,Diesel,2016,44000,Titanium Silver,CS# CP6296 (WITHOUT PLATES),1097000,Quezon City
+Isuzu,NHR I-Van,Manual,Diesel,2014,207000,Arc White,[SALE] CS# CL0411 (WITHOUT PLATE),501000,Manila
+JAC,Stallion,Manual,Diesel,2011,53000,Blue,ATA 7752,192000,Panabo City
+Kia,Carens,Automatic,Diesel,2014,48000,Cherry Black,[SALE] ABB 7734,788000,Cagayan De Oro
+Kia,Forte,Automatic,Gasoline,2015,31000,Aurora Black,ADN 4899 (WITHOUT PLATES),499000,Cebu
+Kia,K2700,Manual,Diesel,2015,87000,Clear White,AIA 1847,597000,Taguig
+Kia,Picanto,Manual,Gasoline,2018,22000,Titanium Silver,CS# EH5394 (WITHOUT PLATES),426000,Koronadal
+Kia,Picanto,Automatic,Gasoline,2017,3000,Alice Blue,CS# EG9699 (WITHOUT PLATES),373000,Cebu
+Kia,Picanto,Manual,Gasoline,2017,27000,Titanium Silver,CS# EH2158 (WITHOUT PLATES),325000,Quezon City
+Isuzu,MU-X,Automatic,Diesel,2016,75000,Cosmic Black Mica,[SALE] WITHOUT PLATE,1203000,Quezon City
+Isuzu,MU-X,Automatic,Diesel,2018,29000,Cosmic Black Mica,CS# D0 I302 (WITHOUT PLATES),1278000,Panabo City
+Isuzu,NHRNT Flexi Truck,Manual,Diesel,2017,53000,White,KAA 3663,990000,Panabo City
+Jeep,Commander,Automatic,Gasoline,2008,52000,Steel Blue,[SALE] ZPE 871,820000,Quezon City
+Kia,Carnival,Manual,Diesel,2013,162000,Clear White,[SALE] WIL 547,400000,General Santos
+Kia,K2500,Manual,Diesel,2018,37000,Clear White,CS# EH5142 (WITHOUT PLATES),890000,Panabo City
+Kia,Picanto,Manual,Gasoline,2016,8000,Signal Red,GAA 6262,261000,Bacolod
+Kia,Picanto,Automatic,Gasoline,2018,14000,Celestial Blue,CS# EH6099 (WITHOUT PLATES),586000,Quezon City
+Kia,Picanto,Manual,Gasoline,2016,11000,Cherry Pink,CS# EG7543 (WITHOUT PLATES),272000,Cebu
+Kia,Rio,Manual,Gasoline,2013,205000,Clear White,FWV 684 (YELLOW PLATE),103000,Bacolod
+Kia,Rio,Automatic,Gasoline,2015,24000,Wendy Brown,AJA 9346,379000,Quezon City
+Kia,Rio,Manual,Gasoline,2013,70000,Signal Red,YLM 612,245000,Cebu
+Kia,Rio,Manual,Gasoline,2010,,Clear White,PIJ 540,94000,Quezon City
+Kia,Soul,Manual,Diesel,2018,13000,Inferno Red,CS# EH4058 (WITHOUT PLATES),831000,Bacolod
+Kia,Sportage,Automatic,Gasoline,2013,32000,Mineral Silver,WIA 854,564000,Panabo City
+Kia,Sportage,Automatic,Gasoline,2015,,Black,[SALE] ABP 1270,639000,Quezon City
+Mazda,2,Automatic,Gasoline,2017,35000,Titanium Flash,CS# RK5088 (WITHOUT PLATES),703000,Quezon City
+Mazda,3,Automatic,Gasoline,2016,23000,Aluminum Metallic,CS# RK0109 (WITHOUT PLATES),546000,Bacolod
+Mazda,BT-50,Automatic,Diesel,2016,15000,Cool White,[SALE] ACU 4314 (TEMPORARY PLATE) / CS# RJ7499 (WITHOUT PLATE),937000,Panabo City
+Mazda,BT-50,Manual,Diesel,2016,16000,Cool White,[SALE] CS# RJ7966 (WITHOUT PLATES),927000,Quezon City
+Kia,Rio,Automatic,Gasoline,2016,64000,Bright Silver,AEB 4174,426000,Cebu
+Kia,Rio,Manual,Gasoline,2015,115000,Bright Silver,AAG 6185,267000,Panabo City
+Kia,Sorento,Automatic,Gasoline,2011,36000,Clear White,[SALE] YKE 213,554000,Quezon City
+Kia,Sportage,Automatic,Gasoline,2012,87000,Clear White,[SALE] TQF 757,501000,Quezon City
+Kia,Sportage,Automatic,Gasoline,2013,34000,Sand Track,WIA 655,564000,Cagayan De Oro
+Lifan,620 LF,Manual,Gasoline,2014,8000,Black,ARA 6202,181000,Quezon City
+Mazda,3,Automatic,Gasoline,2019,10000,Snowflake White Pearl,CS# O0 F632 (WITHOUT PLATES),938000,Quezon City
+Mazda,BT,Manual,Diesel,2016,31000,Titanium Gray,[SALE] CS# RJ8533 (WITHOUT PLATES),873000,Panabo City
+Mazda,BT-50,Manual,Diesel,2016,27000,Highlight Silver,CS# RJ7945 (WITHOUT PLATES),788000,Panabo City
+Mazda,BT-50,Manual,Diesel,2016,46000,Highlight Silver,[SALE] ACU 5684 (TEMPORARY PLATES),852000,Koronadal
+Mazda,BT-50,Automatic,Diesel,2015,95000,Copper Red,ABM 4135,852000,Bacolod
+Mazda,CX-5,Automatic,Gasoline,2016,14000,Soul Red,[SALE] AAG 6519,1116000,General Santos
+Mercedes-Benz,C180,Automatic,Gasoline,2011,33000,Black,[SALE] POS 559,1193000,Quezon City
+Mitsubishi,Adventure,Manual,Diesel,2014,21000,Nimbus Gray,AAK 4597,464000,Manila
+Mitsubishi,Adventure,Manual,Diesel,2017,19000,Polar White,CS# NS9404 (WITHOUT PLATES),581000,Quezon City
+Mitsubishi,Adventure,Manual,Diesel,2012,232000,Dominic Silver / Verona Silver,TQH 637,234000,Quezon City
+Mitsubishi,Adventure,Manual,Diesel,2015,217000,Polar White,ABQ 5770,410000,Quezon City
+Mitsubishi,Adventure,Manual,Diesel,2013,205000,Citadel Red,WIQ 374,309000,Quezon City
+Mitsubishi,Adventure,Manual,Diesel,2015,125000,Polar White,ABW 3115,410000,Fort Victoria
+Mitsubishi,Adventure,Manual,Diesel,2017,8000,Cool Silver,CS# B1 Y293 (WITHOUT PLATES),639000,Koronadal
+Mazda,CX-5,Automatic,Gasoline,2012,69000,Sky Blue MC,UCI 721,575000,Bacolod
+Mazda,CX-7,Automatic,Gasoline,2011,88000,Aluminum Metallic,[SALE] TFO 451,435000,Panabo City
+Mitsubishi,Adventure,Manual,Diesel,2016,59000,Kinetic Blue / Verona Silver,AAD 5065,501000,Quezon City
+Mitsubishi,Adventure,Manual,Diesel,2015,59000,Black,AKA 5724 / CS# NF6490,490000,Quezon City
+Mitsubishi,Adventure,Manual,Diesel,2016,42000,Soporific Black,[SALE] ACI 8136 (WITHOUT PLATES),618000,Quezon City
+Mitsubishi,Adventure,Manual,Diesel,2015,102000,Polar White,AHA 7150,437000,Quezon City
+Mitsubishi,Adventure,Manual,Diesel,2016,34000,Nimbus Gray,CS# NN3319 (w/o plate),586000,Quezon City
+Mitsubishi,Adventure,Manual,Diesel,2014,92000,Soporific Black,AAD 4560,170000,Bacolod
+Mitsubishi,Adventure,Manual,Diesel,2016,83000,Kinetic Blue,[SALE] CS# NN9185 (WITHOUT PLATES),533000,Bacolod
+Mitsubishi,Adventure,Manual,Diesel,2017,136000,Majestic Red,CS# NS2971 (WITHOUT PLATES),522000,Fort Victoria
+Mitsubishi,Adventure,Manual,Diesel,2012,128000,White,[SALE] UQT 271,362000,Quezon City
+Mitsubishi,L300,Manual,Diesel,2017,7000,Polar White,CS# NR5816 (WITHOUT PLATES),671000,Taguig
+Mitsubishi,L300,Manual,Diesel,2017,6000,Polar White,CS# B1 Z436 (WITHOUT PLATES),671000,Quezon City
+Mitsubishi,L300,Manual,Diesel,2016,61000,Polar White,NCF 7857,533000,Manila
+Mitsubishi,L300,Manual,Diesel,2014,64000,Polar White,AAZ 2510,458000,Manila
+Mitsubishi,Mirage,Automatic,Gasoline,2018,20000,Wine Red Pearl,CS# B2 Y976 (WITHOUT PLATES),480000,Bacolod
+Mitsubishi,Mirage,Automatic,Gasoline,2015,27000,Medium Blue Mica,ABN 1110 / CS# NG5414 (WITHOUT PLATES),405000,Cagayan De Oro
+Mitsubishi,Mirage,Automatic,Gasoline,2018,6000,Virgil Gray,CS# B2 P043 (WITHOUT PLATES),581000,Quezon City
+Mitsubishi,Mirage,Manual,Gasoline,2017,9000,Wine Red Pearl,CS# B2 H754 (WITHOUT PLATES),469000,Bacolod
+Mitsubishi,Mirage,Automatic,Gasoline,2018,16000,Virgil Gray,CS# B3 A361 (WITHOUT PLATES),469000,Quezon City
+Mitsubishi,L200,Manual,Diesel,2005,155000,Silver,[SALE] FDE 163,153000,Iloilo
+Mitsubishi,L300,Manual,Diesel,2017,24000,Polar White,CS# B0 N979 (WITHOUT PLATES),645000,Quezon City
+Mitsubishi,L300,Manual,Diesel,2013,81000,Polar White,[SALE] CS# BV0652 (WITHOUT PLATES),261000,Quezon City
+Mitsubishi,L300,Manual,Diesel,2017,45000,Polar White,CS# NT3138 (WITHOUT PLATES),570000,Fort Victoria
+Mitsubishi,Mirage,Automatic,Gasoline,2016,22000,Majestic Red,KDO 9906 / CS# NP1832,426000,Koronadal
+Mitsubishi,Mirage,Automatic,Gasoline,2014,40000,Pyrenese Black,AAC 1166,290000,Quezon City
+Mitsubishi,Mirage,Automatic,Gasoline,2015,108000,Majestic Red,CS# NK8856 (WITHOUT PLATES),252000,Quezon City
+Mitsubishi,Mirage,Manual,Gasoline,2017,4000,Majestic Red,CS# B2 M141 (WITHOUT PLATES),373000,Quezon City
+Mitsubishi,Mirage,Automatic,Gasoline,2016,117000,Virgil Gray,CS# NM3100 (WITHOUT PLATES),299000,Fort Victoria
+Mitsubishi,Mirage,Manual,Gasoline,2016,32000,Virgil Gray,CS# NR0483 (WITHOUT PLATES),346000,Quezon City
+Mitsubishi,Mirage,Manual,Gasoline,2016,68000,Virgil Gray,CS# NP1579 (WITHOUT PLATES),283000,Quezon City
+Mitsubishi,Mirage,Manual,Gasoline,2016,83000,Aurora White,CS# NM2497 (WITHOUT PLATES),265000,Quezon City
+Mitsubishi,Mirage,Automatic,Gasoline,2016,6000,Cool Silver,CS# NR2388 (WITHOUT PLATES),320000,Quezon City
+Mitsubishi,Mirage,Automatic,Gasoline,2016,46000,Pyrenese Black,ACV 3474,366000,Panabo City
+Mitsubishi,Montero,Manual,Diesel,2017,37000,Savanna White,CS# NS4942 (WITHOUT PLATES),820000,Bacolod
+Mitsubishi,Montero,Automatic,Diesel,2016,69000,Sedona Red,CS# NK7260 (WITHOUT PLATES),1257000,Bacolod
+Mitsubishi,Montero,Automatic,Diesel,2018,33000,Titanium Gray,CS# B2 W624 (WITHOUT PLATES),1385000,Quezon City
+Mitsubishi,Montero,Automatic,Diesel,2012,54000,Brown (Actual) / Savanna White (PN),[SALE] UIU 783,501000,Panabo City
+Mitsubishi,Montero,Automatic,Diesel,2014,,Quartz Brown Metallic,[SALE] LHF 245,841000,Koronadal
+Mitsubishi,Pajero,Automatic,Diesel,2013,144000,Grande White,[SALE] UQL 493,1385000,Quezon City
+Mitsubishi,Mirage,Manual,Gasoline,2016,,Aurora White,CS# NM2496 (WITHOUT PLATES),243000,Quezon City
+Mitsubishi,Mirage,Automatic,Gasoline,2017,18000,Virgil Gray,CS# B1 Q145 (WITHOUT PLATES),490000,Quezon City
+Mitsubishi,Mirage,Automatic,Gasoline,2016,22000,Savanna White,CS# NO4065 (WITHOUT PLATES),394000,Quezon City
+Mitsubishi,Mirage,Manual,Gasoline,2016,78000,Pyrenese Black,CS# NQ9399 (WITHOUT PLATES),293000,Quezon City
+Mitsubishi,Montero,Automatic,Diesel,2016,7000,Sedona Red,CS# NL2707 (WITHOUT PLATES),1215000,Quezon City
+Mitsubishi,Montero,Automatic,Diesel,2017,52000,Sedona Red,CS# NO7937 (WITHOUT PLATES),1215000,Taguig
+Mitsubishi,Montero,Manual,Diesel,2015,36000,Virgil Gray,CS# NI5389 (WITHOUT PLATES),990000,Panabo City
+Mitsubishi,Montero,Manual,Diesel,2014,32000,Quartz Brown Metallic,ADA 7258,725000,Quezon City
+Mitsubishi,Montero,Manual,Diesel,2017,21000,Deep Brown Metallic,CS# B0 P610 (WITHOUT PLATES),1140000,Quezon City
+Mitsubishi,Pajero,Automatic,Diesel,2013,117000,Rio Grande White,[SALE] RNX 397,1193000,General Santos
+Mitsubishi,Strada,Manual,Diesel,2018,22000,Pearl White,CS# B2 W727 (WITHOUT PLATES),874000,Quezon City
+Mitsubishi,Strada,Manual,Diesel,2010,203000,Deep Black Mica,[SALE] LMP 316,650000,Panabo City
+Mitsubishi,Strada,Manual,Diesel,2015,79000,Rosita Red,CS# NH6203 (WITHOUT PLATES),863000,General Santos
+Mitsubishi,Xpander,Automatic,Gasoline,2019,11000,Jet Black Mica,NBD 5934,842000,Quezon City
+Nissan,Almera,Manual,Gasoline,2018,5000,Titanium Grey,CS# OY8198 (WITHOUT PLATES),596000,Quezon City
+Nissan,Almera,Manual,Gasoline,2016,22000,Titanium Gray,AEC 5819,320000,Cebu
+Nissan,Almera,Manual,Gasoline,2018,26000,Brilliant Silver,CS# F0 I797 (WITHOUT PLATES),548000,Quezon City
+Nissan,Almera,Manual,Gasoline,2017,16000,Titanium Grey,CS# OW9927 (WITHOUT PLATES),371000,Quezon City
+Nissan,Frontier,Manual,Diesel,2013,261000,Crimson Red,UQU 712,458000,Bacolod
+Nissan,Juke,Automatic,Gasoline,2017,20000,Pearl White,CS# OX1795 (WITHOUT PLATES),714000,Quezon City
+Mitsubishi,Strada,Automatic,Diesel,2018,12000,Red Solid,CS# B2 T417 (WITHOUT PLATES),927000,Taguig
+Mitsubishi,Strada,Manual,Diesel,2013,50000,Rosita Red,RNX 530,767000,General Santos
+Mitsubishi,Strada,Manual,Diesel,2016,81000,Savanna White,[SALE] CS# NJ4556 (WITHOUT PLATES),756000,Panabo City
+Nissan,Almera,Manual,Gasoline,2017,17000,Titanium Grey,CS# OX5010 (WITHOUT PLATES),379000,Bacolod
+Nissan,Almera,Automatic,Gasoline,2018,8000,Titanium Grey,CS# F0 E404 (WITHOUT PLATES),639000,Fort Victoria
+Nissan,Almera,Automatic,Gasoline,2016,44000,Titanium Grey,CS# OV3582 (WITHOUT PLATES),431000,Quezon City
+Nissan,Almera,Automatic,Gasoline,2013,54000,Bluish Black,RMS 624,227000,Quezon City
+Nissan,Altima,Automatic,Gasoline,2015,16000,Aspen White,CS# VS4028 (WITHOUT PLATES),1044000,Quezon City
+Nissan,Frontier,Automatic,Diesel,2008,127000,Black,[SALE] ZSF 338,479000,Quezon City
+Nissan,NP300,Automatic,Diesel,2016,79000,Galaxy Black,[SALE] CS# OV6783 (WITHOUT PLATES),1172000,Panabo City
+Nissan,Patrol,Manual,Diesel,2008,130000,Pearl Black,[SALE] ZMS 552,873000,Quezon City
+Nissan,Sentra,Manual,Gasoline,2013,54000,Warm Silver,RNV 522,213000,Quezon City
+Nissan,Sylphy,Manual,Gasoline,2017,8000,Ebony Black,CS# OW7618 (WITHOUT PLATE),529000,Quezon City
+Nissan,Urvan,Manual,Diesel,2015,188000,Polar White,[SALE] ANA 5335,628000,Manila
+Nissan,Urvan,Manual,Diesel,2016,217000,Alpine White,ABO 2451,682000,Panabo City
+Nissan,Urvan,Manual,Diesel,2015,217000,Alpine White,[SALE] AAG 5516,676000,Panabo City
+Nissan,Urvan,Manual,Diesel,2018,6000,White,CS# F0 N973 (WITHOUT PLATES),1055000,Quezon City
+Nissan,Urvan,Automatic,Diesel,2018,27000,Brilliant Silver,CS# F0 G015 (WITHOUT PLATES),1454000,Quezon City
+Nissan,Urvan,Manual,Diesel,2015,138000,Polar White,[SALE] ANA 5166,585000,Cagayan De Oro
+Nissan,Urvan,Manual,Diesel,2014,37000,Polar White,[SALE] AAM 1278,507000,Quezon City
+Nissan,Patrol,Automatic,Diesel,2012,213000,Platinum Silver,[SALE] UOW 290,1182000,Fort Victoria
+Nissan,Sylphy,Manual,Gasoline,2016,59000,Aspen White,CS# OW1378 (WITHOUT PLATES),388000,Bacolod
+Nissan,Sylphy,Manual,Gasoline,2016,29000,Deep Iris Gray,CS# OW5369 (WITHOUT PLATES),501000,Bacolod
+Nissan,Urvan,Manual,Diesel,2016,140000,Alpine White,[SALE] CS# OV2275 (WITHOUT PLATES),852000,Panabo City
+Nissan,Urvan,Manual,Diesel,2017,42000,Alpine White,ADO 9925 CS# OX3054 (WITHOUT PLATES),1081000,Cagayan De Oro
+Nissan,Urvan,Manual,Diesel,2018,5000,Brilliant Silver,CS# OY8549 (WITHOUT PLATES),1235000,Cebu
+Nissan,Urvan,Manual,Diesel,2018,17000,Alpine White,CS# F0 U158 (WITHOUT PLATES),1002000,Taguig
+Nissan,Urvan,Manual,Diesel,2015,70000,Polar White,[SALE] ABM 2023,643000,Bacolod
+Nissan,Urvan,Manual,Diesel,2013,182000,Polar White,[SALE] UQU 116,335000,Fort Victoria
+Nissan,Urvan,Manual,Diesel,2015,99000,Polar White,ABF 6274,533000,Quezon City
+Nissan,Urvan,Manual,Diesel,2015,98000,Polar White,[SALE] AEA 2569,512000,Cebu
+Nissan,X-trail,Automatic,Gasoline,2016,15000,Fiery Red,[SALE] CS# OV2202 (WITHOUT PLATES),1172000,Quezon City
+Peugeot,3008,Automatic,Diesel,2014,32000,BourrasqueBlue,[SALE] AAS 1716,858000,Cagayan De Oro
+Peugeot,301,Automatic,Gasoline,2016,7000,Bianca White,[SALE] CS# VT1507 (WITHOUT PLATES),783000,Cebu
+Peugeot,RCZ,Automatic,Gasoline,2014,15000,Nera Black,[SALE] AAF 1424,1238000,Bacolod
+Subaru,Forester,Automatic,Gasoline,2014,62000,Blue (OR/CRE) Marine Blue Pearl (PN/CHM),[SALE] ARA 3874,1006000,Quezon City
+Subaru,Forester,Automatic,Gasoline,2014,49000,White,[SALE] AFA 5689,852000,General Santos
+Subaru,Outback,Automatic,Gasoline,2016,26000,White,CS# HW5700 (WITHOUT PLATES),1577000,Quezon City
+Suzuki,APV,Manual,Gasoline,2019,11000,White,NAY 8189,426000,Cebu
+Suzuki,Celerio,Automatic,Gasoline,2018,15000,Red,CS# G0 D267 (WITHOUT PLATES),495000,Quezon City
+Nissan,Urvan,Manual,Diesel,2015,193000,Polar White,ARA 1017,458000,Taguig
+Peugeot,3008,Automatic,Diesel,2012,69000,Vapor Gray,[SALE] AAS 1498,799000,Cagayan De Oro
+Peugeot,3008,Automatic,Diesel,2012,70000,Aluminum Gray,[SALE] AAS 1499,655000,Cagayan De Oro
+Peugeot,301,Manual,Diesel,2015,40000,Bianca White,[SALE] CS# VT1056 (WITHOUT PLATES),543000,Panabo City
+Shenyang Jinbei,JBC,Manual,Diesel,2017,40000,White/Gray,[SALE] CS# ZW3017 (WITHOUT PLATES),746000,Cagayan De Oro
+Subaru,Forester,Automatic,Gasoline,2014,57000,Green,[SALE] ACA 1549,954000,Quezon City
+Subaru,Forester,Automatic,Gasoline,2014,98000,Ice Silver Metallic,[SALE] AAW 8812,929000,Quezon City
+Subaru,XV,Automatic,Gasoline,2015,19000,Jasmine Green Metallic,[SALE] AAE 3635,851000,Panabo City
+Suzuki,Celerio,Automatic,Gasoline,2018,20000,Red,CS# G0 Y591 (WITHOUT PLATES),405000,Bacolod
+Suzuki,Ciaz,Automatic,Gasoline,2016,22000,Black,CS# UE3172 (WITHOUT PLATES),448000,Panabo City
+Suzuki,Ciaz,Automatic,Gasoline,2018,8000,Gray,CS# G0 T381 (WITHOUT PLATES),512000,Quezon City
+Suzuki,Ciaz,Automatic,Gasoline,2018,11000,Black,CS# G0 K132 (WITHOUT PLATES),517000,Quezon City
+Suzuki,Ciaz,Automatic,Gasoline,2016,33000,Brown,CS# UD9877 (WITHOUT PLATES),478000,Quezon City
+Suzuki,Ciaz,Automatic,Gasoline,2017,31000,Gray,CS# UE6178 (WITHOUT PLATES),537000,Panabo City
+Suzuki,Ciaz,Automatic,Gasoline,2017,15000,Pearl Snow White,CS# UE6172 (WITHOUT PLATES),529000,Quezon City
+Suzuki,Ciaz,Automatic,Gasoline,2017,11000,White,ADO 9628 (VIRTUAL PLATE) / CS# UE7501 (WITHOUT PLATES),550000,Panabo City
+Suzuki,Ertiga,Manual,Gasoline,2018,22000,Gray,CS# G0 P727 (WITHOUT PLATES),628000,Bacolod
+Suzuki,Ertiga,Manual,Gasoline,2016,42000,Silver,[SALE] CS# UD1174 (WITHOUT PLATES),463000,Panabo City
+Suzuki,Ertiga,Manual,Gasoline,2017,28000,White,[SALE] ADO 8084 CS# UE4862 (WITHOUT PLATES),533000,Koronadal
+Suzuki,Ertiga,Manual,Gasoline,2016,45000,Brown,CS# UD6219 (WITHOUT PLATES),479000,Fort Victoria
+Suzuki,Ciaz,Automatic,Gasoline,2018,10000,Prime Dignity Brown,CS# G0 D575 (WITHOUT PLATES),501000,Quezon City
+Suzuki,Ciaz,Automatic,Gasoline,2019,2000,Gray,NBE 8466,586000,Quezon City
+Suzuki,Ciaz,Automatic,Gasoline,2017,18000,Silver,CS# UF2635 (WITHOUT PLATES),588000,Cebu
+Suzuki,Ciaz,Manual,Gasoline,2018,16000,Black,CS# G0 M449 (WITHOUT PLATES),469000,Quezon City
+Suzuki,Ciaz,Automatic,Gasoline,2016,44000,White,CS# UE3096 (WITHOUT PLATES),520000,Quezon City
+Suzuki,Ertiga,Manual,Gasoline,2017,20000,Red,CS# UF7455 (WITHOUT PLATES),522000,Quezon City
+Suzuki,Ertiga,Automatic,Gasoline,2015,59000,Silver,AMA 9084,490000,Bacolod
+Suzuki,Ertiga,Manual,Gasoline,2016,48000,Silver Metallic,[SALE] CS# UE3256 (WITHOUT PLATES),469000,Panabo City
+Suzuki,Ertiga,Automatic,Gasoline,2018,16000,Silver,CS# G0 I298 (WITHOUT PLATES),724000,Panabo City
+Suzuki,Ertiga,Manual,Gasoline,2017,15000,Red,[SALE] CS# G0 A191 (WITHOUT PLATES),559000,Quezon City
+Suzuki,Ertiga,Manual,Gasoline,2016,28000,Dusky Brown Metallic,[SALE] CS# UD3930 (WITHOUT PLATES),533000,Bacolod
+Suzuki,Ertiga,Automatic,Gasoline,2017,8000,White,[SALE] CS# UF1421 (WITHOUT PLATES),772000,Panabo City
+Suzuki,Grand Vitara,Automatic,Gasoline,2016,96000,Black,CS# UD6541 (WITHOUT PLATES),660000,Cagayan De Oro
+Suzuki,Grand Vitara,Automatic,Gasoline,2016,7000,Bison Brown Pearl Metallic,[SALE] CS# UD6655 (WITHOUT PLATE),760000,Davao
+Suzuki,Grand Vitara,Automatic,Gasoline,2016,40000,Granite Gray,[SALE] CS# UD6558 (WITHOUT PLATES),714000,Quezon City
+Suzuki,Grand Vitara,Automatic,Gasoline,2017,10000,Prime Gaia Bronze,[SALE] CS# UF1656 (WITHOUT PLATES),927000,Cebu
+Suzuki,Grand Vitara,Automatic,Gasoline,2016,9000,White,[SALE] AEC 8086 (TEMPORARY PLATE),769000,Quezon City
+Suzuki,Grand Vitara,Automatic,Gasoline,2017,25000,Bronze,[SALE] CS# UE5387 (WITHOUT PLATES),921000,Quezon City
+Suzuki,Jimny,Automatic,Gasoline,2016,42000,Black,CS# UD5305 (WITHOUT PLATES),639000,Quezon City
+Suzuki,Swift,Automatic,Gasoline,2016,31000,Red,ACU 5469 (VIRTUAL PLATES),415000,Cagayan De Oro
+Suzuki,Ertiga,Automatic,Gasoline,2017,14000,Burgundy Red Pearl,FAA 6644,639000,Bacolod
+Suzuki,Ertiga,Manual,Gasoline,2017,25000,White,[SALE] CS# UF4397 (WITHOUT PLATES),618000,Panabo City
+Suzuki,Grand Vitara,Automatic,Gasoline,2017,19000,Brown,CS# UF2062 (WITHOUT PLATES),714000,Quezon City
+Suzuki,Grand Vitara,Automatic,Gasoline,2016,39000,Black,CS# UD5340 (WITHOUT PLATES),714000,Panabo City
+Suzuki,Grand Vitara,Automatic,Gasoline,2017,65000,White,CS# UE3278 (WITHOUT PLATES),639000,Fort Victoria
+Suzuki,Grand Vitara,Automatic,Gasoline,2017,13000,Bronze,[SALE] CS# UF2067 (WITHOUT PLATES),996000,Quezon City
+Suzuki,Grand Vitara,Automatic,Gasoline,2016,27000,White,[SALE] CS# UD9378 (WITHOUT PLATES),841000,Bacolod
+Suzuki,Grand Vitara,Automatic,Gasoline,2015,64000,Bronze,[SALE] CS# UC6821 (WITHOUT PLATES),559000,Quezon City
+Suzuki,Kizashi,Automatic,Gasoline,2013,28000,Snow White,LHL 383,317000,Panabo City
+Suzuki,Swift,Automatic,Gasoline,2015,16000,Blazing Pearl Red,ABC 3850 (WITHOUT PLATE),274000,Koronadal
+Suzuki,Swift,Automatic,Gasoline,2015,45000,Arctic White Pearl Metallic,ANA 5479,324000,Cagayan De Oro
+Suzuki,Swift,Automatic,Gasoline,2016,89000,Black,CS# UD4880 (WITHOUT PLATES),352000,Panabo City
+Suzuki,Swift,Manual,Gasoline,2017,21000,Glistening Grey Metallic,CS# UF3939 (WITHOUT PLATES),490000,Quezon City
+Suzuki,Swift,Manual,Gasoline,2015,61000,Glistening Gray Metallic,ABC 3242,309000,Koronadal
+Tata,Indigo,Manual,Diesel,2017,5000,White,CS# PT1712 (WITHOUT PLATES),266000,Quezon City
+Tata,Manza,Manual,Gasoline,2016,2000,Gray,CS# PT1135 (WITHOUT PLATES),290000,Quezon City
+Toyota,Avanza,Automatic,Gasoline,2016,66000,Black Metallic,ABQ 1637,533000,Taguig
+Toyota,Avanza,Manual,Gasoline,2017,23000,Nebula Blue Metallic,CS# VZ2124 (WITHOUT PLATES),650000,Fort Victoria
+Toyota,Corolla,Automatic,Gasoline,2013,34000,Attitude Black,[SALE] WPI 212,405000,Fort Victoria
+Toyota,Corolla,Automatic,Gasoline,2013,61000,White Pearl,WSO 322,490000,Quezon City
+Suzuki,Swift,Automatic,Gasoline,2016,23000,Red,CS# UE2558 (WITHOUT PLATES),458000,General Santos
+Suzuki,Swift,Manual,Gasoline,2015,66000,Blue,ABI 1224,309000,Quezon City
+Suzuki,Swift,Automatic,Gasoline,2016,29000,Pacific Blue,CS# UD0798 (WITHOUT PLATES),426000,Bacolod
+Suzuki,SX4,Automatic,Gasoline,2013,62000,Black,AAR 4391,290000,Cebu
+Tata,Manza,Manual,Diesel,2016,38000,Grey,CS# PT1124 (WITHOUT PLATE),247000,Quezon City
+Toyota,Avanza,Automatic,Gasoline,2015,37000,Dark Steel Mica,ATA 6177,501000,Quezon City
+Toyota,Avanza,Manual,Gasoline,2017,34000,White,[SALE] CS# VO9708 (WITHOUT PLATES),511000,Quezon City
+Toyota,Camry,Automatic,Gasoline,2007,92000,Extreme Black,[SALE] ZJM 471,362000,Quezon City
+Toyota,Corolla,Automatic,Gasoline,2017,24000,Black,CS# VI6622 (WITHOUT PLATES),756000,Quezon City
+Toyota,FJ Cruiser,Automatic,Gasoline,2016,54000,Beige,NCH 3815,1406000,Quezon City
+Toyota,FJ Cruiser,Automatic,Gasoline,2018,12000,Beige,CS# A1 X829(WITHOUT PLATES),1704000,Bacolod
+Toyota,Fortuner,Automatic,Diesel,2018,13000,Freedom White,CS# A6 A861 (WITHOUT PLATES),1396000,Quezon City
+Toyota,Fortuner,Automatic,Diesel,2014,115000,Extreme Black,AAR 9705,714000,Cagayan De Oro
+Toyota,Fortuner,Automatic,Gasoline,2016,24000,Freedom White,[SALE] CS# YT4662 (WITHOUT PLATES),1086000,Quezon City
+Toyota,Fortuner,Automatic,Diesel,2014,124000,Lithium,[SALE] AAK 5686,1012000,Quezon City
+Toyota,Hiace Commuter,Manual,Diesel,2015,175000,White,AQA 6351,809000,Quezon City
+Toyota,Hiace Commuter,Manual,Diesel,2015,178000,White,[SALE] CS# YH3535 (WITHOUT PLATES),679000,Koronadal
+Toyota,Hiace Commuter,Manual,Diesel,2016,150000,White,CS# VD0634 (WITHOUT PLATES),852000,General Santos
+Toyota,Hiace Commuter,Manual,Diesel,2016,212000,White,CS# VC7494 (WITHOUT PLATES),809000,Bacolod
+Toyota,Hiace Commuter,Manual,Diesel,2018,78000,White,CS# A3 T625 (WITHOUT PLATES),1119000,Quezon City
+Toyota,Fortuner,Automatic,Diesel,2016,36000,Feedom White,NCG 4218,1236000,Taguig
+Toyota,Fortuner,Manual,Diesel,2015,30000,Silver Metallic,[SALE] ABS 3982,990000,Bacolod
+Toyota,Fortuner,Manual,Diesel,2015,156000,Freedom White,[SALE] CS# YP1571 (WITHOUT PLATES),980000,Cebu
+Toyota,Fortuner,Automatic,Diesel,2016,,White Pearl,[SALE] AAG 2492,969000,General Santos
+Toyota,Fortuner,Automatic,Diesel,2015,195000,White Pearl,ARA 4163,1076000,General Santos
+Toyota,Hiace Commuter,Manual,Diesel,2016,241000,White,ABH 5757,772000,Quezon City
+Toyota,Hiace Commuter,Manual,Diesel,2016,126000,White,[SALE] ADS 7246 (VIRTUAL PLATE) / CS# YX8671 (WITHOUT PLATES),863000,Quezon City
+Toyota,Hiace Commuter,Manual,Diesel,2016,161000,White,NDQ 7878,799000,Fort Victoria
+Toyota,Hiace Commuter,Manual,Diesel,2017,245000,White,ACP 3473 (WITHOUT PLATES),788000,Panabo City
+Toyota,Hiace Commuter,Manual,Diesel,2018,8000,White,CS# A3 L161 (WITHOUT PLATES),1161000,Quezon City
+Toyota,Hiace Grandia,Manual,Diesel,2016,92000,Silver Metallic,CS# YV8174 (WITHOUT PLATES),1310000,Panabo City
+Toyota,Hiace Grandia,Manual,Diesel,2018,43000,Silver Metallic,CS# A1 S473 (WITHOUT PLATES),1449000,Quezon City
+Toyota,Hiace Grandia,Manual,Diesel,2017,74000,White Pearl 2T,CS# VJ4885 (WITHOUT PLATES),1417000,Quezon City
+Toyota,Hilux,Automatic,Diesel,2017,46000,Orange Metallic,CS# VJ7653 (WITHOUT PLATES),996000,Quezon City
+Toyota,Hilux,Manual,Diesel,2016,83000,Gray Metallic,CS# YY1363 (WITHOUT PLATES),746000,General Santos
+Toyota,Hilux,Automatic,Diesel,2017,19000,Red Metallic,[SALE] CS# VL0184 (WITHOUT PLATES),905000,Bacolod
+Toyota,Innova,Automatic,Gasoline,2016,42000,Black,CS# VJ7585 (WITHOUT PLATES),831000,Quezon City
+Toyota,Innova,Manual,Diesel,2014,136000,Thermalyte,[SALE] AAI 5056,522000,Quezon City
+Toyota,Innova,Automatic,Diesel,2017,35000,Red Mica Metallic,CS# A0 X196 (WITHOUT PLATES),970000,Taguig
+Toyota,Innova,Manual,Diesel,2017,39000,Black,NAL 6460,948000,Taguig
+Toyota,Hiace Grandia,Automatic,Diesel,2015,40000,Extreme Black,AFA 1724,1331000,Bacolod
+Toyota,Hiace Grandia,Automatic,Diesel,2016,44000,Silver Metallic,MCV 8464,1428000,Koronadal
+Toyota,Hiace Super Grandia,Automatic,Diesel,2016,45000,White Pearl,NCE 2752,1662000,Quezon City
+Toyota,Hilux,Manual,Diesel,2015,144000,Freedom White,ARA 9165,746000,Quezon City
+Toyota,Hilux,Automatic,Diesel,2016,21000,Silver Metallic,CS# YT5479 (WITHOUT PLATES),948000,Quezon City
+Toyota,Hilux,Manual,Diesel,2017,60000,Silver Metallic,CS# VQ3200 (WITHOUT PLATES),970000,Panabo City
+Toyota,Innova,Manual,Gasoline,2016,55000,Red Mica Metallic,CS# YX6316 (WITHOUT PLATES),777000,Quezon City
+Toyota,Innova,Manual,Diesel,2016,120000,Freedom White,ABT 4588,660000,Quezon City
+Toyota,Innova,Manual,Diesel,2016,66000,Black,NDC 1880,778000,Quezon City
+Toyota,Innova,Manual,Diesel,2017,62000,Thermalyte,CS# A1 E128 (WITHOUT PLATES),879000,Panabo City
+Toyota,Vios,Automatic,Gasoline,2014,94000,Gray Metallic,AAW 6610,363000,Quezon City
+Toyota,Vios,Automatic,Gasoline,2016,41000,Dark Brown Metallic,ABQ 9495,453000,Quezon City
+Toyota,Vios,Automatic,Gasoline,2016,57000,Dark Brown Metallic,CS# YT6536 (WITHOUT PLATES),426000,Quezon City
+Toyota,Vios,Automatic,Gasoline,2017,62000,Black,CS# VX6626 (WITHOUT PLATES),464000,Fort Victoria
+Toyota,Vios,Automatic,Gasoline,2018,8000,Black,CS# A5 Y126 (WITHOUT PLATES),554000,Quezon City
+Toyota,Vios,Manual,Gasoline,2012,78000,Thermalyte,TJO 360,256000,Quezon City
+Toyota,Vios,Manual,Gasoline,2016,55000,Orange Metallic,CS# VB6300 (WITHOUT PLATES),384000,Quezon City
+Toyota,Vios,Manual,Gasoline,2017,52000,Red Mica Metallic,CS# VY2819 (WITHOUT PLATES),395000,Quezon City
+Toyota,Vios,Manual,Gasoline,2018,16000,Orange Metallic,CS# A4 M662 (WITHOUT PLATES),480000,Quezon City
+Toyota,Vios,Manual,Gasoline,2017,72000,Thermalyte,CS# A0 G519 (WITHOUT PLATES),373000,Quezon City
+Toyota,Vios,Automatic,Gasoline,2015,79000,Thermalyte,CS# YR5689 (WITHOUT PLATES),384000,Panabo City
+Toyota,Vios,Automatic,Gasoline,2016,48000,Orange Metallic,CS# VB5823 (WITHOUT PLATES),458000,Quezon City
+Toyota,Vios,Automatic,Gasoline,2017,14000,Thermalyte,CS# WB2871 (WITHOUT PLATES),501000,Quezon City
+Toyota,Vios,Automatic,Gasoline,2017,64000,Red Mica Metallic,CS# VK8042 (WITHOUT PLATES),495000,Fort Victoria
+Toyota,Vios,Automatic,Gasoline,2018,12000,Alumina Jade Metallic,GAH 1590,554000,Quezon City
+Toyota,Vios,Manual,Gasoline,2016,42000,Thermalyte,CS# YZ8313 (WITHOUT PLATES),316000,Quezon City
+Toyota,Vios,Manual,Gasoline,2017,33000,Orange Metallic,CS# VV9249 (WITHOUT PLATES),437000,Bacolod
+Toyota,Vios,Manual,Gasoline,2018,10000,Blackish Red Mica,CS# A5 I383 (WITHOUT PLATES),490000,Quezon City
+Toyota,Vios,Manual,Gasoline,2018,29000,Blackish Red Mica,CS# A2 C377 (WITHOUT PLATES),548000,Quezon City
+Toyota,Vios,Automatic,Gasoline,2016,3000,Black,CS# NS4691 (WITHOUT PLATES),543000,Fort Victoria
+Toyota,Vios,Automatic,Gasoline,2017,43000,Alumina Jade Metallic,CS# VN3111 (WITHOUT PLATES),596000,Quezon City
+Toyota,Vios,Automatic,Gasoline,2018,5000,Orange Metallic,CS# A5 E217 (WITHOUT PLATES),863000,Quezon City
+Toyota,Wigo,Manual,Gasoline,2018,300,Gray Metallic,CS# A5 R552 (WITHOUT PLATES),474000,Quezon City
+Toyota,Wigo,Automatic,Gasoline,2017,12000,Gray Metallic,CS# A0 C034 (WITHOUT PLATES),415000,Fort Victoria
+Toyota,Wigo,Automatic,Gasoline,2017,60000,White,CS# VX9626 (WITHOUT PLATES),347000,Quezon City
+Volvo,S40,Automatic,Gasoline,2012,50000,Flamenco Red,[SALE] AKK 99,602000,Quezon City
+Toyota,Vios,Manual,Gasoline,2017,5000,Alumina Jade Metallic,CS# C1 C635 (WITHOUT PLATES),639000,Quezon City
+Toyota,Vios,Automatic,Gasoline,2018,9000,Orange,CS# A4 M030 (WITHOUT PLATES),714000,Quezon City
+Toyota,Wigo,Automatic,Gasoline,2015,76000,Black,AKA 9777,299000,Manila
+Toyota,Wigo,Automatic,Gasoline,2017,40000,White,CS# A0 W199 (WITHOUT PLATES),357000,Fort Victoria
+Toyota,Yaris,Automatic,Gasoline,2018,8000,Gray Metallic,CS# A4 X608 (WITHOUT PLATES),874000,Taguig
