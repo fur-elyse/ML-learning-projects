@@ -1,0 +1,153 @@
+<!--------
+HOME PAGE
+--------->
+
+{% extends "capstone/base.html" %}
+{% block content %}
+	<div id="home-container">
+		<div class="header">
+			<h2><b>
+				Price Prediction of Used Cars
+			</b></h2>
+
+			<p class="description">
+				Enter the details of the used/second-hand car to predict its price.
+			</p>
+		</div>
+
+
+		<form id="car-form" method="POST"> 
+			{% csrf_token %}
+			
+			<!-- First Row: Brand, Model, Body Type -->
+			<div class="form-row">
+
+				<!-- car_brand -->
+				<div class="form-group col-md-4">
+					<label for="brand" class="car-form-label">Brand: <br></label>
+					{{ form.brand }}				
+				</div>
+
+				<!-- car_model -->
+				<div class="form-group col-md-4">
+					<label for="model" class="car-form-label">Model: <br></label>
+					{{ form.model }}						
+				</div>
+
+				<!-- car_body -->
+				<div class="form-group col-md-4">
+					<label for="body_type" class="car-form-label">Body Type: <br></label>
+					{{ form.body_type }}	
+				</div>
+
+			</div>
+			
+
+			<!-- Second Row: Year Manufactured, Mileage, Retail Price -->
+			<div class="form-row">
+
+				<!-- age_of_car -->
+				<div class="form-group col-md-4">
+					<label for="age_of_car" class="car-form-label">Age of Car: <br></label>
+					{{ form.age_of_car }}					
+				</div>
+
+				<!-- car_mileage -->
+				<div class="form-group col-md-4">
+					<label for="mileage_in_km" class="car-form-label">Mileage in km: <br></label>
+					{{ form.mileage_in_km }}						
+				</div>
+
+				<!-- car_retail -->
+				<div class="form-group col-md-4">
+					<label for="retail" class="car-form-label">Retail Price: <br></label>
+					{{ form.retail }}					
+				</div>
+
+			</div>
+
+
+			<!-- Third Row: Color Family, Location, Transmission, Fuel Type -->
+			<div class="form-row">
+
+				<div class="form-group col-md-4">
+
+					<!-- post_age_in_days -->
+					<label for="post_age_in_days" class="car-form-label">Post Age in Days: <br></label>
+					{{ form.post_age_in_days }}
+
+					<br>
+
+					<!-- car_color -->
+					<label for="color" class="car-form-label">Color Family: <br></label>
+					{{ form.color }}						
+		
+				</div>
+
+				<!-- car_transmission -->
+				<div class="form-group col-md-4">
+					<label for="transmission" class="car-form-label">Transmission: <br></label>
+					<div class="form-check">
+					{% for d in form.transmission.field.choices %}
+						<input type="radio" name="transmission" value='{{ d.0 }}'>{{ d.1 }}<br>
+					{% endfor %}
+					</div>				
+				</div>
+
+				<!-- car_fuel -->
+				<div class="form-group col-md-4">						
+					<label for="fuel_type" class="car-form-label">Fuel Type: <br></label>
+					<div class="form-check">
+					{% for d in form.fuel_type.field.choices %}
+						<input type="radio" name="fuel_type" value='{{ d.0 }}'>{{ d.1 }}<br>
+					{% endfor %}
+					</div>							
+				</div>
+
+			</div>
+
+
+			<!-- Fourth Row: Seller Type, Buttons, Output -->
+			<div class="form-row">
+
+				<div class="form-group col-md-4">
+
+					<!-- car_location -->
+					<label for="location" class="car-form-label">Location: <br></label>
+					{{ form.location }}
+
+					<br>
+
+					<!-- car_seller -->
+					<label for="poster_type" class="car-form-label">Seller Type: <br></label>
+					<div class="form-check">
+					{% for d in form.poster_type.field.choices %}
+						<input type="radio" name="poster_type" value='{{ d.0 }}'>{{ d.1 }}<br>
+					{% endfor %}
+					</div>	
+		
+				</div>
+
+				<div id="form_btn" class="form-group col-md-2">
+					<!-- form buttons -->
+					<button id="form-button-predict" class="btn btn-primary" type="submit" value="Submit">Submit</button>
+					<button id="form-button-clear" class="btn btn-primary" type="reset" value="Reset">Reset</button>					
+				</div>
+
+				<!-- output -->
+				<div class="col-md-6">
+					<div id="prediction">
+						<div>
+							<br>
+							<h5>Predicted Car Price (PhP):</h5>
+							<h2>{{ predicted }}</h2>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+		</form>
+	</div>
+
+{% endblock content %}

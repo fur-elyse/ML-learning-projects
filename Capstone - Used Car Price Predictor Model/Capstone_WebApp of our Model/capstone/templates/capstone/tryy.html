@@ -1,0 +1,51 @@
+<!-----------
+SCRATCH PAGE
+------------>
+
+{% extends "capstone/base.html" %}
+{% block content %}
+<div id="home-container">
+	<div class="header">
+			<h3>
+				Second-Hand Cars in PH: A Buyer's Guide
+			</h3>
+
+			<p class="description">
+				Enter the details of the used/second-hand car to predict its price.
+			</p>
+	</div>
+	<form method="post">
+		{% csrf_token %}
+		<div class="form-row">
+			<div class="form-group col-md-4">
+				<label for="car_brand" class="car-form-label">Brand: <br></label>
+				{{ form.brand }}
+			</div>
+			
+			<div class="form-group col-md-4">
+				{{ form.poster_type }}
+			</div>
+			
+		</div>
+
+		<div class="form-row">
+			<div class="form-group col-md-4">
+				{{ form.transmission }}
+			</div>
+			<button type="submit">Submit</button>
+
+			<!-- output -->
+			<div class="col-md-4">
+				<div id="prediction">
+					<div>
+						<h5>Predicted Car Price (PhP):</h5>
+						<h2>{{ predicted }}</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+	</form>
+</div>
+{% endblock content %}

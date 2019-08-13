@@ -1,0 +1,48 @@
+<!--------
+BASE PAGE
+--------->
+
+{% load static %}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="{% static 'capstone/main.css' %}">
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/js/bootstrap-select.min.js"></script>
+
+	{% if title %}
+		<title>{{ title }} | A Buyer's Guide to Second-Hand Cars</title>
+	{% else %}
+		<title>A Buyer's Guide to Second-Hand Cars</title>
+	{% endif %}
+</head>
+
+<body>
+	<div class="container">
+		{% block content %}
+		{% endblock %}
+
+		<div id="footer">
+			<p class="creators">
+				Created by Elyse Go | Nicole Lumagui | Bernadette Misa | Jero Santos
+				<br>
+				Batch 2 Data Science Scholars, FTW Foundation
+			</p>
+		</div>
+	</div>
+
+	
+
+
+</body>
+</html>
